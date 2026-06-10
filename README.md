@@ -46,14 +46,6 @@ my code `function getProduct(req, res, next) {
 
 ---
 
-```javascript
-function getProduct(req, res, next) {
-  Product.fetchAll((products) => {
-    res.render('shop', { products, pageTitle: 'Shop' });
-  });
-}
-```
-
 ---
 
 ```html
@@ -67,6 +59,8 @@ function getProduct(req, res, next) {
   <body></body>
 </html>
 ```
+
+کامپوننت اسلایدر عکس
 
 ```tsx
 export default function ImageSlider({ images }: { images: ImagesTypes[] }) {
@@ -100,6 +94,26 @@ export default function ImageSlider({ images }: { images: ImagesTypes[] }) {
       ))}
     </div>
   );
+}
+```
+
+```js
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  darkMode: 'class', // برای دارک مود ضروریه
+  content: ['./src/**/*.{html,js,jsx,ts,tsx}', './public/index.html'],
+  theme: {
+    extend: {
+      fontFamily: { sans: ['var(--font-yekan)', 'sans-serif'] },
+    },
+  },
+  plugins: [],
+};
+
+function getProduct(req, res, next) {
+  Product.fetchAll((products) => {
+    res.render('shop', { products, pageTitle: 'Shop' });
+  });
 }
 ```
 
