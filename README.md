@@ -22,7 +22,7 @@ click here to see my github [meee](https://github.com/amin-dev3232/test)
 
 _italic text_
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas purus viverra accumsan in nisl nisi. Arcu cursusLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas purus viverra accumsan in nisl nisi. Arcu cursus
+> به طور خلاصه در این دوره شما هر آنچه برای مسلط شدن به Next.js نیاز داشته باشید به شما آموزش داده میشه. یعنی ابتدا یه سری نکات کلی در مورد سئو در فرانت اند به شما آموزش داده میشه که توصیه میکنیم حتما این قسمت‌های اول رو که رایگان هم هستن ببینید تا علاوه بر اصلاح و تکمیل تسلط شما به این موضوع، آمادگی خوبی برای مطالب بعدی پیدا کنید. در مرحله بعد کانسپت های اصلی و اساسی Next.js رو به صورت کامل و عمیق آموزش می بینید به صورتی که بتونید در پروژه های واقعی و کاربردی ازشون استفاده کنید. در واقع در این مرحله هست که به صورت عمیق با Next.js و قدرت اون آشنا خواهید شد. بعد از اینکه تونستید با کانسپت های اصلی Next.js آشنا بشید، وارد مرحله جذاب پروژه های عملی میشید و اونجا با چهار تا مینی پروژه مطالب رو مرور خواهید کرد. بعد از اون یک پروژه خیلی خوب توسعه میدید تا مطمئن بشیم به تسلط کامل رسیدید.
 
 ---
 
