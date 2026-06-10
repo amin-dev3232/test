@@ -46,8 +46,6 @@ my code `function getProduct(req, res, next) {
 
 ---
 
----
-
 ```html
 <!doctype html>
 <html lang="en">
